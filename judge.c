@@ -1,6 +1,7 @@
 /*
  * Judge.c - a simple text-only Pinewood derby lane judge
  * Copyright 2013-2015 Mitch Williams
+ * Licensed under GPL v 2.0 - see the license file in this repository
  */
 #include <stdio.h>
 #include <stdlib.h>
